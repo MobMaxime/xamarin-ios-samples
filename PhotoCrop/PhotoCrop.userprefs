@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone5s.8.0" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PhotoCrop/AppDelegate.cs">
+    <Files>
+      <File FileName="PhotoCrop/AppDelegate.cs" Line="37" Column="37" />
+      <File FileName="PhotoCrop/PhotoCropViewController.cs" Line="8" Column="8" />
+      <File FileName="PhotoCrop/Info.plist" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../ctv/CTV/Screens/MyVideos/MainScreen.cs" line="146" offsetX="471" offsetY="2175" expression="thumbImagesUrl" liveUpdate="False" />
+    <Watch file="../../ctv/CTV/Screens/LoginScreen/LoginController.cs" line="216" offsetX="442" offsetY="3225" expression="result" liveUpdate="False" />
+    <Watch file="../../ctv/CTV/Screens/LoginScreen/LoginController.cs" line="88" offsetX="697" offsetY="1305" expression="list" liveUpdate="False" />
+    <Watch file="../../ctv/CTV/Screens/LoginScreen/LoginController.cs" line="275" offsetX="553" offsetY="4110" expression="res" liveUpdate="False" />
+    <Watch file="../../ctv/CTV/Screens/LoginScreen/LoginController.cs" line="263" offsetX="495" offsetY="3930" expression="res.User" liveUpdate="False" />
+    <Watch file="../../ctv/CTV/Screens/PlayVideo/TableSource/PlayVideoTableCell.cs" line="187" offsetX="452" offsetY="2790" expression="titleTf" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
